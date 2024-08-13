@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    text-align: center;
+    vertical-align: bottom;
+    margin-top: 15%;
+}
+#value{
+    font-size: 50px;
+    font-weight: bolder;
+}
+h1{
+    font-size: 30px;
+}
+.btn{
+    font-size: xx-large;
+    text-transform: uppercase;
+    background: transparent;
+    
+}
+body{
+    background-image: linear-gradient(green,yellow,red);
+    background-size: cover;
+    height: 100%;
+}
